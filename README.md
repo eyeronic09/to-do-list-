@@ -1,2 +1,2 @@
 ﻿# to-do-list-
-to track your progress day to life 
+to track your progress of day to day task
